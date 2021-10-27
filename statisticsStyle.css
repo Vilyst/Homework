@@ -1,0 +1,21 @@
+#tableStatistics{
+    position: relative;
+    left:calc(50% - 463px);
+
+    text-align: center;
+    font-family: D-DIN;
+    
+}
+
+.number td{
+    padding: 0 80px;
+}
+
+.number{
+    font-size: 140px;
+}
+
+.label{
+    font-size: 20px;;
+}
+
