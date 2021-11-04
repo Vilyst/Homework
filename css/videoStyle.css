@@ -1,0 +1,15 @@
+.videoWrapper {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  text-align: center;
+}
+iframe {
+  width: 73%;
+  height: 90%;
+}
+#returnMain {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+}
